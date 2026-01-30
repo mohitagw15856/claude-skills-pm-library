@@ -1,0 +1,13 @@
+{
+  "name": "stakeholder-update-generator",
+  "version": "1.0.0",
+  "description": "Converts project notes and metrics into polished stakeholder communications formatted for leadership",
+  "author": "Product AI Skills Library",
+  "triggers": [
+    "stakeholder update",
+    "executive update",
+    "leadership communication",
+    "status report",
+    "project update"
+  ]
+}

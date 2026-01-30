@@ -1,0 +1,13 @@
+{
+  "name": "prd-writer",
+  "version": "1.0.0",
+  "description": "Converts feature ideas into comprehensive Product Requirements Documents following modern PM best practices",
+  "author": "Product AI Skills Library",
+  "triggers": [
+    "write a prd",
+    "create a product requirements document",
+    "document this feature",
+    "help me spec",
+    "product specification"
+  ]
+}

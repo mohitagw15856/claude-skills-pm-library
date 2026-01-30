@@ -1,0 +1,13 @@
+{
+  "name": "user-research-synthesizer",
+  "version": "1.0.0",
+  "description": "Analyzes user research data (interviews, surveys, feedback) and identifies themes, pain points, and actionable insights",
+  "author": "Product AI Skills Library",
+  "triggers": [
+    "synthesize research",
+    "analyze user feedback",
+    "user interview analysis",
+    "research insights",
+    "identify themes"
+  ]
+}
