@@ -192,15 +192,14 @@ Built by the Product AI community. Special thanks to all the PMs who shared feed
 
 - **Questions:** Open a GitHub issue
 - **Updates:** Star this repo to get notified of new skills
-- **Discussion:** Comment on the [Medium article](YOUR-MEDIUM-ARTICLE-LINK)
-- **Newsletter:** [Subscribe for weekly AI tools for PMs](YOUR-CONVERTKIT-LINK)
+- **Discussion:** Comment on the [Medium article](https://medium.com/product-powerhouse/claude-skills-the-ai-feature-thats-quietly-changing-how-product-managers-work-aad5d8d0640a?source=your_stories_outbox---writer_outbox_published-----------------------------------------)
 
 ## ☕ Support This Work
 
 If these skills save you time:
 - ⭐ Star this repository
 - 🔗 Share on Twitter/LinkedIn
-- ☕ [Buy me a coffee](https://buymeacoffee.com/your-handle)
+- ☕ [Buy me a coffee](https://buymeacoffee.com/mohit15856)
 - 💬 Share how you're using them
 
 ---
